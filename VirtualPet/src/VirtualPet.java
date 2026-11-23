@@ -54,7 +54,7 @@ public class VirtualPet {
             happinessLevel--;
         }
         ageMonths++;
-        
+
         if (ageMonths == 12) {
             ageYears++;
             ageMonths = 0;
